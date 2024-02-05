@@ -9,4 +9,4 @@ This project is designed to scrape football data whoscored s, parse the informat
 - JSON data parsing and preparation.
 - SQL script generation for Supabase database insertion.
 
-## Table of Contents
+I made a CSV extract from the database with the event data from a single match.
